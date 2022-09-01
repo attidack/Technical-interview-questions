@@ -7,5 +7,5 @@ a repository of technical interview questions
 <br />
 - run fizzBuzz with node
 ```
-node fizzBuzz.js
+- node fizzBuzz.js
 ```
